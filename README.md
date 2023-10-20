@@ -1,0 +1,1 @@
+# Js-interactive-rating-component
